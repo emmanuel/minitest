@@ -10,8 +10,10 @@ lib/minitest/benchmark.rb
 lib/minitest/mock.rb
 lib/minitest/pride.rb
 lib/minitest/spec.rb
+lib/minitest/rspec.rb
 lib/minitest/unit.rb
 test/test_minitest_benchmark.rb
 test/test_minitest_mock.rb
 test/test_minitest_spec.rb
+test/test_minitest_rspec.rb
 test/test_minitest_unit.rb
